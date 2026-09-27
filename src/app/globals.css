@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "./studio.css";
+@import "./mockups.css";
+@import "./responsive.css";
+
+@theme inline {
+  --color-background: #0b0b0e;
+  --color-foreground: #f2f1f5;
+  --font-sans: Arial, Helvetica, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
